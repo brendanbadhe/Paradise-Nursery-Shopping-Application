@@ -44,8 +44,3 @@ Paradise Nursery Shopping Application is a front-end web app for browsing and pu
    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Deployment
-
-The app is deployed at:
-[https://brendanbadhe.github.io/Paradise-Nursery-Shopping-Application/](https://brendanbadhe.github.io/Paradise-Nursery-Shopping-Application/)
