@@ -4,6 +4,8 @@
 
 Paradise Nursery Shopping Application is a front-end web app for browsing and purchasing a variety of houseplants. Users can explore plant categories, add items to a shopping cart, and manage their selections before checkout. The app is built with React and Redux Toolkit, providing a modern, interactive shopping experience.
 
+**Live Demo:** [https://brendanbadhe.github.io/Paradise-Nursery-Shopping-Application/](https://brendanbadhe.github.io/Paradise-Nursery-Shopping-Application/)
+
 ## Features
 
 - **Landing Page**: Engaging introduction with a background image, company name, description, and a Get Started button.
